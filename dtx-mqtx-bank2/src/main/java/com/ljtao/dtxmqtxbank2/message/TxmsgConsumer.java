@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
  * @author ljtao3 on 2020/4/2
  */
 @Component
-@RocketMQMessageListener(topic = "topic_txmsg",consumerGroup = "consumer_txmsg_group_bank2")
+@RocketMQMessageListener(topic = "topic_txmsg1",consumerGroup = "consumer_txmsg_group_bank2")
 @Slf4j
 public class TxmsgConsumer implements RocketMQListener<String> {
     @Autowired

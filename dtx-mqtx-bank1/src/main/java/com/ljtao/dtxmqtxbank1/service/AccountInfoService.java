@@ -43,7 +43,7 @@ public class AccountInfoService {
          * Object arg 参数
          */
         TransactionSendResult sendResult = rocketMQTemplate.sendMessageInTransaction("producer_group_txmsg_bank1",
-                "topic_txmsg", message, null);
+                "topic_txmsg1", message, null);
 
         System.out.println("send transcation message body="+message.getPayload()+",result="+sendResult.getSendStatus());
 
