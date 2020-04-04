@@ -29,5 +29,9 @@ public class AccountInfoService {
         }else{
             log.info("更新本地事务执行失败，本次事务号: {}", ace.getTxNo());
         }
+        if(ace.getAmount()==4){
+            //throw new RuntimeException("人为产出异常！");
+        }
+
     }
 }
