@@ -1,0 +1,39 @@
+2020-04-16 08:07:39.420 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [55] -| Starting RedisDistributedLockApplication on C07723 with PID 8744 (D:\workspaces\dtx-mqtx\redis-distributed-lock\target\classes started by ljtao3 in D:\workspaces\dtx-mqtx)
+2020-04-16 08:07:39.424 |-DEBUG [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [56] -| Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-16 08:07:39.424 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [651] -| No active profile set, falling back to default profiles: default
+2020-04-16 08:07:40.187 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] -| Tomcat initialized with port(s): 9103 (http)
+2020-04-16 08:07:40.194 |-INFO  [main] org.apache.catalina.core.StandardService [173] -| Starting service [Tomcat]
+2020-04-16 08:07:40.194 |-INFO  [main] org.apache.catalina.core.StandardEngine [173] -| Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 08:07:40.287 |-INFO  [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] -| Initializing Spring embedded WebApplicationContext
+2020-04-16 08:07:40.288 |-INFO  [main] org.springframework.web.context.ContextLoader [284] -| Root WebApplicationContext: initialization completed in 831 ms
+2020-04-16 08:07:40.407 |-INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] -| Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 08:07:40.521 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] -| Tomcat started on port(s): 9103 (http) with context path ''
+2020-04-16 08:07:40.525 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [61] -| Started RedisDistributedLockApplication in 1.385 seconds (JVM running for 2.017)
+2020-04-16 08:07:59.450 |-INFO  [http-nio-9103-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] -| Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 08:07:59.450 |-INFO  [http-nio-9103-exec-1] org.springframework.web.servlet.DispatcherServlet [525] -| Initializing Servlet 'dispatcherServlet'
+2020-04-16 08:07:59.462 |-INFO  [http-nio-9103-exec-1] org.springframework.web.servlet.DispatcherServlet [547] -| Completed initialization in 12 ms
+2020-04-16 08:08:31.479 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [55] -| Starting RedisDistributedLockApplication on C07723 with PID 16236 (D:\workspaces\dtx-mqtx\redis-distributed-lock\target\classes started by ljtao3 in D:\workspaces\dtx-mqtx)
+2020-04-16 08:08:31.481 |-DEBUG [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [56] -| Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-16 08:08:31.481 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [651] -| No active profile set, falling back to default profiles: default
+2020-04-16 08:08:32.137 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] -| Tomcat initialized with port(s): 9103 (http)
+2020-04-16 08:08:32.143 |-INFO  [main] org.apache.catalina.core.StandardService [173] -| Starting service [Tomcat]
+2020-04-16 08:08:32.144 |-INFO  [main] org.apache.catalina.core.StandardEngine [173] -| Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 08:08:32.212 |-INFO  [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] -| Initializing Spring embedded WebApplicationContext
+2020-04-16 08:08:32.212 |-INFO  [main] org.springframework.web.context.ContextLoader [284] -| Root WebApplicationContext: initialization completed in 679 ms
+2020-04-16 08:08:32.330 |-INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] -| Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 08:08:32.447 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] -| Tomcat started on port(s): 9103 (http) with context path ''
+2020-04-16 08:08:32.449 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [61] -| Started RedisDistributedLockApplication in 1.367 seconds (JVM running for 2.015)
+2020-04-16 08:10:01.786 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [55] -| Starting RedisDistributedLockApplication on C07723 with PID 3192 (D:\workspaces\dtx-mqtx\redis-distributed-lock\target\classes started by ljtao3 in D:\workspaces\dtx-mqtx)
+2020-04-16 08:10:01.789 |-DEBUG [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [56] -| Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2020-04-16 08:10:01.789 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [651] -| No active profile set, falling back to default profiles: default
+2020-04-16 08:10:02.528 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [92] -| Tomcat initialized with port(s): 9103 (http)
+2020-04-16 08:10:02.534 |-INFO  [main] org.apache.catalina.core.StandardService [173] -| Starting service [Tomcat]
+2020-04-16 08:10:02.535 |-INFO  [main] org.apache.catalina.core.StandardEngine [173] -| Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 08:10:02.611 |-INFO  [main] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] -| Initializing Spring embedded WebApplicationContext
+2020-04-16 08:10:02.611 |-INFO  [main] org.springframework.web.context.ContextLoader [284] -| Root WebApplicationContext: initialization completed in 785 ms
+2020-04-16 08:10:02.730 |-INFO  [main] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [181] -| Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 08:10:02.853 |-INFO  [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [204] -| Tomcat started on port(s): 9103 (http) with context path ''
+2020-04-16 08:10:02.855 |-INFO  [main] com.ljtao.redisdistributedlock.RedisDistributedLockApplication [61] -| Started RedisDistributedLockApplication in 1.471 seconds (JVM running for 2.157)
+2020-04-16 08:11:29.453 |-INFO  [http-nio-9103-exec-1] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [173] -| Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 08:11:29.454 |-INFO  [http-nio-9103-exec-1] org.springframework.web.servlet.DispatcherServlet [525] -| Initializing Servlet 'dispatcherServlet'
+2020-04-16 08:11:29.466 |-INFO  [http-nio-9103-exec-1] org.springframework.web.servlet.DispatcherServlet [547] -| Completed initialization in 12 ms

@@ -42,6 +42,8 @@ public class ProducerTxmsgListener implements RocketMQLocalTransactionListener{
             AccountChangeEvent ace = JSONObject.parseObject(jsonObject.getString("accountChange"), AccountChangeEvent.class);
             //扣除金额
             accountInfoService.doUpdateAccountBalance(ace);
+
+            //Thread.sleep(30000);//延迟发送MQ
             return RocketMQLocalTransactionState.COMMIT;
 
 
